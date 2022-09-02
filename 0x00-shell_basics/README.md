@@ -1,1 +1,1 @@
-script that creates the directories
+Life is a series of commas
