@@ -1,1 +1,1 @@
-All files with character
+script that creates the directories
