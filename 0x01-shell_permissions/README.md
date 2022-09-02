@@ -1,1 +1,1 @@
-execute script
+new owner
