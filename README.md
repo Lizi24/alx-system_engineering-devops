@@ -1,1 +1,1 @@
-Task 0.where am I?
+ Display current directory contents, including hidden files (starting with .). Use the long format
